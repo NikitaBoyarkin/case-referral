@@ -6,6 +6,14 @@
 
 Referral funnel by JTBD segment: anchor 29.6% vs Digital Newcomers 45+ 4.8% and families 8.6%. The gap opens at accept, not KYC.
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/referral/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [jtbd](https://github.com/NikitaBoyarkin/case-jtbd) · [premium-upsell](https://github.com/NikitaBoyarkin/case-premium-upsell)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - Anchor 29.6% vs 45+ 4.8% and families 8.6%
